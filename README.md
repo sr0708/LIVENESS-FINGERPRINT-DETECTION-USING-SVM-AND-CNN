@@ -1,2 +1,2 @@
 # LIVENESS-FINGERPRINT-DETECTION-USING-SVM-AND-CNN\
-# conda activate tf ( enter )
+#### ENTER "conda activate tf" in Ananconda Prompt
